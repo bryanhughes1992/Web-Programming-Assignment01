@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Quicksand&display=swap');
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.project-container {
+    width: 60vw;
+    border: solid 1px #000;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.page-title {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+.about-me-div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.about-me {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin-bottom: 2.5%;
+}
+
+.about-me-p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.25rem;
+}
+
+.programming-background-div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.programming-background-header {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin-bottom: 2.5%;
+}
+
+.programming-background-p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.25rem;
+}
+
+.favorite-websites-div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.list-header {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin-bottom: 2.5%;
+}
+
+.favorite-websites {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.25rem;
+}
+
+.favorite-movies-div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.movies-header {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    margin-bottom: 2.5%;
+}
+
+.table {
+    font-family: 'Quicksand', sans-serif;
+    border: solid #000 1px;
+}
+
+.table-head {
+    text-align: left;
+}
+
+.table-data {
+    border: solid 1px #000;
+}
+
+.my-representation-div {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2.5%;
+    margin-top: 10%;
+}
+
+.representation {
+    max-width: 100%;
+    height: auto;
+}
